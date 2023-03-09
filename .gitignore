@@ -1,0 +1,11 @@
+SERVER-GOMOKU
+*.o
+fights
+pbrain-gomoku-ai
+node_modules
+.vscode
+test
+command.txt
+.DS_Store
+bonus/.DS_Store
+test_file
